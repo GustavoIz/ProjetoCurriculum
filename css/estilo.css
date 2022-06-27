@@ -21,10 +21,9 @@ header img{
 header h3{
     margin-right: 50px;
 }
-main img{
+main{
     display: flex;
     justify-content: space-between;
-    background-color: antiquewhite;
     width: 60px;
     height: 70px;
     margin: 10px auto;
